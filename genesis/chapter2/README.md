@@ -1,5 +1,5 @@
-# 创世纪
-genesis
+# 创世纪 2
+genesis 2
 
 ## 第七日
 

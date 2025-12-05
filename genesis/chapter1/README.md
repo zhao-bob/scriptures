@@ -1,5 +1,5 @@
-# 创世纪
-genesis
+# 创世纪 1
+genesis 1
 
 ## 创世
 
