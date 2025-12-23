@@ -16,3 +16,5 @@ genesis
 ## [第七章](https://zhao-bob.github.io/scriptures/genesis/chapter7)
 
 ## [第八章](https://zhao-bob.github.io/scriptures/genesis/chapter8)
+
+## [第九章](https://zhao-bob.github.io/scriptures/genesis/chapter9)
