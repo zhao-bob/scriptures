@@ -28,3 +28,9 @@ genesis
 ## [第十三章](https://zhao-bob.github.io/scriptures/genesis/chapter13)
 
 ## [第十四章](https://zhao-bob.github.io/scriptures/genesis/chapter14)
+
+## [第十五章](https://zhao-bob.github.io/scriptures/genesis/chapter15)
+
+## [第十六章](https://zhao-bob.github.io/scriptures/genesis/chapter16)
+
+## [第十七章](https://zhao-bob.github.io/scriptures/genesis/chapter17)
