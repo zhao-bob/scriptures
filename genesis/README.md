@@ -34,3 +34,17 @@ genesis
 ## [第十六章](https://zhao-bob.github.io/scriptures/genesis/chapter16)
 
 ## [第十七章](https://zhao-bob.github.io/scriptures/genesis/chapter17)
+
+## [第十八章](https://zhao-bob.github.io/scriptures/genesis/chapter18)
+
+## [第十九章](https://zhao-bob.github.io/scriptures/genesis/chapter19)
+
+## [第二十章](https://zhao-bob.github.io/scriptures/genesis/chapter20)
+
+## [第二十一章](https://zhao-bob.github.io/scriptures/genesis/chapter21)
+
+## [第二十二章](https://zhao-bob.github.io/scriptures/genesis/chapter22)
+
+## [第二十三章](https://zhao-bob.github.io/scriptures/genesis/chapter23)
+
+## [第二十四章](https://zhao-bob.github.io/scriptures/genesis/chapter24)
