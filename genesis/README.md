@@ -48,3 +48,5 @@ genesis
 ## [第二十三章](https://zhao-bob.github.io/scriptures/genesis/chapter23)
 
 ## [第二十四章](https://zhao-bob.github.io/scriptures/genesis/chapter24)
+
+## [第二十五章](https://zhao-bob.github.io/scriptures/genesis/chapter25)
