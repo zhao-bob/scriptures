@@ -50,3 +50,21 @@ genesis
 ## [第二十四章](https://zhao-bob.github.io/scriptures/genesis/chapter24)
 
 ## [第二十五章](https://zhao-bob.github.io/scriptures/genesis/chapter25)
+
+## [第二十六章](https://zhao-bob.github.io/scriptures/genesis/chapter26)
+
+## [第二十七章](https://zhao-bob.github.io/scriptures/genesis/chapter27)
+
+## [第二十八章](https://zhao-bob.github.io/scriptures/genesis/chapter28)
+
+## [第二十九章](https://zhao-bob.github.io/scriptures/genesis/chapter29)
+
+## [第三十章](https://zhao-bob.github.io/scriptures/genesis/chapter30)
+
+## [第三十一章](https://zhao-bob.github.io/scriptures/genesis/chapter31)
+
+## [第三十二章](https://zhao-bob.github.io/scriptures/genesis/chapter32)
+
+## [第三十三章](https://zhao-bob.github.io/scriptures/genesis/chapter33)
+
+## [第三十四章](https://zhao-bob.github.io/scriptures/genesis/chapter34)
