@@ -68,3 +68,7 @@ genesis
 ## [第三十三章](https://zhao-bob.github.io/scriptures/genesis/chapter33)
 
 ## [第三十四章](https://zhao-bob.github.io/scriptures/genesis/chapter34)
+
+## [第三十五章](https://zhao-bob.github.io/scriptures/genesis/chapter35)
+
+## [第三十六章](https://zhao-bob.github.io/scriptures/genesis/chapter36)
