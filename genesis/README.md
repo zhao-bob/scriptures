@@ -76,3 +76,17 @@ genesis
 ## [第三十七章](https://zhao-bob.github.io/scriptures/genesis/chapter37)
 
 ## [第三十八章](https://zhao-bob.github.io/scriptures/genesis/chapter38)
+
+## [第三十九章](https://zhao-bob.github.io/scriptures/genesis/chapter39)
+
+## [第四十章](https://zhao-bob.github.io/scriptures/genesis/chapter40)
+
+## [第四十一章](https://zhao-bob.github.io/scriptures/genesis/chapter41)
+
+## [第四十二章](https://zhao-bob.github.io/scriptures/genesis/chapter42)
+
+## [第四十三章](https://zhao-bob.github.io/scriptures/genesis/chapter43)
+
+## [第四十四章](https://zhao-bob.github.io/scriptures/genesis/chapter44)
+
+## [第四十五章](https://zhao-bob.github.io/scriptures/genesis/chapter45)
