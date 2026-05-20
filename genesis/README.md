@@ -90,3 +90,13 @@ genesis
 ## [第四十四章](https://zhao-bob.github.io/scriptures/genesis/chapter44)
 
 ## [第四十五章](https://zhao-bob.github.io/scriptures/genesis/chapter45)
+
+## [第四十六章](https://zhao-bob.github.io/scriptures/genesis/chapter46)
+
+## [第四十七章](https://zhao-bob.github.io/scriptures/genesis/chapter47)
+
+## [第四十八章](https://zhao-bob.github.io/scriptures/genesis/chapter48)
+
+## [第四十九章](https://zhao-bob.github.io/scriptures/genesis/chapter49)
+
+## [第五十章](https://zhao-bob.github.io/scriptures/genesis/chapter50)
