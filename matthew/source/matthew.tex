@@ -1,0 +1,101 @@
+\documentclass[12pt, a4paper, oneside]{ctexart}
+\usepackage{amsmath, amsthm, amssymb, appendix, bm, graphicx, hyperref, mathrsfs, graphicx}
+\usepackage{authblk}
+% \usepackage[perpage]{footmisc}
+\usepackage{multirow}
+\usepackage{hyperref}
+\hypersetup{hidelinks,
+	colorlinks=true,
+	allcolors=black,
+	pdfstartview=Fit,
+	breaklinks=true}
+\usepackage{float}
+\usepackage{enumerate}
+
+\linespread{1.5}
+
+\renewcommand{\abstractname}{\Large\textbf{绪言}}
+\newcounter{parnum}[section]
+\newcommand{\N}{%
+    \refstepcounter{parnum}%
+    \makebox[0.7em][l]{\small{\arabic{parnum}}}
+    }
+% Use a generous paragraph indent so numbers can be fit inside the
+% indentation space.
+\setlength{\parindent}{2em}
+
+\begin{document}
+
+\setcounter{page}{0}
+\begin{center}
+	\Large{\textbf{马太福音}} \\ \vspace{2em}
+	\small{\href{https://biblehub.com/bsb/matthew/}{Matthew}} \\ \vspace{1em}
+	\small{译者：Job Zhao} \\ \vspace{1em}
+	\small{编译日期: \today} \\ \vspace{1em}
+	\small{Version 2.00} \\ \vspace{1em}
+\end{center}
+\vfill
+\vspace{28em}
+\begin{tabular*}{\textwidth}{cc}
+	\includegraphics{figure/by-nc.eps}
+	& \begin{minipage}[b]{0.6\textwidth}
+		\footnotesize
+		本作品采用知识共享署名-非商业性使用4.0国际许可协议进行许可。访问\url{http://creativecommons.org/licenses/by-nc/4.0/ }查看该许可协议。
+	\end{minipage}
+\end{tabular*}
+\vspace{2mm}
+\thispagestyle{empty}
+
+\newpage
+
+% \begin{abstract}
+    
+% \end{abstract}
+
+\newpage
+\pagenumbering{Roman}
+\setcounter{page}{1}
+\tableofcontents
+\newpage
+\setcounter{page}{1}
+\pagenumbering{arabic}
+
+% \section*{介绍}
+
+
+\newpage
+
+% Matthew 1
+\section{第一章}
+
+% The Genealogy of Jesus
+
+\subsection*{耶稣的家谱}
+
+% This is the record of the genealogy of Jesus Christ, the son of David, the son of Abraham:
+\N 这是大卫的子嗣、亚伯拉罕的子嗣耶稣基督的家谱记录：
+
+% Abraham was the father of Isaac, Isaac the father of Jacob, and Jacob the father of Judah and his brothers.
+\N 亚伯拉罕是以撒的父亲，以撒是雅各的父亲，而雅各是犹大和他兄弟们的父亲。
+
+% Judah was the father of Perez and Zerah by Tamar, Perez the father of Hezron, and Hezron the father of Ram.
+\N 犹大是由他玛生的法勒斯和谢拉的父亲，法勒斯是希斯仑的父亲，而希斯仑是兰的父亲。
+    \footnote{希腊语亚兰，是兰的一个变体；在第4节也出现；参见历代志上2:9–10。}
+
+% Ram was the father of Amminadab, Amminadab the father of Nahshon, and Nahshon the father of Salmon.
+\N 兰是亚米拿达的父亲，亚米拿达是拿顺的父亲，而拿顺是撒门的父亲。
+
+% Salmon was the father of Boaz by Rahab, Boaz the father of Obed by Ruth, Obed the father of Jesse,
+\N 撒门是由喇合生的波阿斯的父亲，波阿斯是由路得生的俄备得的父亲，俄备得是耶西的父亲，
+% and Jesse the father of David the king.
+\N 而耶西是大卫王的父亲。
+
+
+
+\thispagestyle{empty}
+\newpage
+
+% \section*{后记}
+
+
+\end{document}
